@@ -1,5 +1,5 @@
 line 1
 line 2 add something in line2
-line 3
 line 4
-line 5
+line 5 --- add something in line 5
+delete line 2 and line 3
