@@ -1,5 +1,6 @@
 # In this example, @doctocat owns any files in the build/logs
 # directory at the root of the repository and any of its
 # subdirectories.
-/NA @ponychen @rachelliaoo
 * @rachelliaoo
+/NA @ponychen @rachelliaoo
+/data 
